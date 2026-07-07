@@ -6,5 +6,5 @@
 ---
 - 💬 The best way to contact me is at [contact@nathan-coleman.com](contact@nathan-coleman.com). I'd love to hear from you, whether it concerns opportunities, projects, feedback, or just curiosity!
 - 🖼️ My portfolio is available at [nathan-coleman.com](https://www.nathan-coleman.com).
-- <img src="resources/LinkedIn icon.svg" width="14"> You can also find me on [LinkedIn](https://www.linkedin.com/in/nathancoleman2006/).
+- <img src="resources/LinkedIn icon.svg" width="14"> You can also find me on [LinkedIn](https://www.linkedin.com/in/nathan-coleman-com/).
 ---
